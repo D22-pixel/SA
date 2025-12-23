@@ -1,4 +1,5 @@
 Sistema para Academia (SA)
+
 O SA é um software de gestão projetado para centralizar o controle operacional, financeiro e técnico de uma academia.
 
 🎯 Objetivo
